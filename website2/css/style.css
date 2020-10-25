@@ -1,0 +1,14 @@
+body{
+	background-color: crimson; 
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.padding-top{
+	padding-top:50px;
+}
+.image-border{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black; 
+
